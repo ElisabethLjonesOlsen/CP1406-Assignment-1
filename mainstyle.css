@@ -1,0 +1,74 @@
+@charset "utf-8";
+body {
+	background-color: #323030;
+	color: #FDFDFD;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: medium;
+	text-align: center;
+}
+footer {
+	background-color: #000000;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 80px;
+	padding-right: 80px;
+	padding-bottom: 80px;
+	padding-left: 80px;
+	text-align: left;
+}
+h4 {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 8px;
+	word-spacing: 2cm;
+	
+}
+
+
+h3 {
+	font-size: 2rem;
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+header {
+	background-image: url(devils-570861_1280.jpg);
+	padding-top: 205px;
+	padding-right: 205px;
+	padding-bottom: 205px;
+	padding-left: 205px;
+	color: #BF0003;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 4rem;
+	text-align: left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 21px;
+	margin-right: 21px;
+	margin-bottom: 21px;
+	margin-left: 21px;
+
+}
+h1 {
+	text-align: center;
+	font-size: 4rem;
+
+}
+a:hover {
+	color:black;
+	
+}
+
+
+	
+	
